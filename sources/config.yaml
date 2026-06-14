@@ -1,0 +1,9 @@
+sources:
+  - ContemporaryDisplay[wght].glyphs
+familyName: Contemporary Display
+axisOrder:
+  - wght
+outputDir: ../fonts
+buildVariable: true
+buildStatic: false
+buildWebfont: true
