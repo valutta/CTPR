@@ -1,0 +1,8 @@
+# This is the official list of people who can contribute (and typically
+# have contributed) code to this repository.
+#
+# Names should be added to this file like so:
+# Name or Organization <email address>
+# The email address is not required for organizations.
+
+Vølven Skadadottir <sk@volven.me> (https://volven.me/)

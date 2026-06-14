@@ -1,13 +1,46 @@
-# Contemporary Display 2.0
-A variable grotesque =)
+# Contemporary Display
 
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/96b92a5f-3866-447c-a09f-d165a2f79186" />
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/6b7fc5e9-7d33-4b1d-b329-20f3dda11389" />
+Contemporary Display is a variable font with a single weight (`wght`) axis, ranging
+from Regular (400) to Black (900). It is derived from the
+[Inter](https://github.com/rsms/inter) typeface and licensed under the
+[SIL Open Font License 1.1](OFL.txt).
 
-## Support
-if you want to support me, feel free to donate.
-https://ko-fi.com/volven
+![Sample](documentation/ContemporaryDisplay-sample.png)
 
-## Credits
-Contemporary is a fork of Inter. "Inter" is a trademark of Rasmus Andersson (DBA: RSMS) 
-and is used as the basis for this project under the SIL Open Font License.
+## Building
+
+Source files live in [`sources/`](sources). Build the binaries with
+[gftools](https://github.com/googlefonts/gftools):
+
+```
+gftools builder sources/config.yaml
+```
+
+Built fonts are written to [`fonts/`](fonts).
+
+## Repository structure
+
+This repository follows the
+[Google Fonts upstream layout](https://googlefonts.github.io/gf-guide/index):
+
+```
+.
+├── AUTHORS.txt
+├── CONTRIBUTORS.txt
+├── OFL.txt
+├── README.md
+├── documentation/          # specimen images used on the catalog
+├── fonts/
+│   ├── variable/
+│   │   └── ContemporaryDisplay[wght].ttf   # submit this one to Google Fonts
+│   ├── otf/
+│   │   └── ContemporaryDisplay[wght].otf
+│   └── webfonts/
+│       └── ContemporaryDisplay[wght].woff2
+└── sources/                # editable source files (.glyphs / .glyphspackage / .ufo)
+```
+
+## License
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+See [OFL.txt](OFL.txt). It is available with a FAQ at https://openfontlicense.org
