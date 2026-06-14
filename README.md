@@ -1,5 +1,6 @@
 # Contemporary Display 2.0
-A variable grotesque =)
+
+Contemporary Display is a variable font, ranging from Regular 400 to Black 900
 
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/96b92a5f-3866-447c-a09f-d165a2f79186" />
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/6b7fc5e9-7d33-4b1d-b329-20f3dda11389" />
