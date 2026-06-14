@@ -11,6 +11,7 @@ https://ko-fi.com/volven
 ## Credits
 Contemporary is a fork of Inter. "Inter" is a trademark of Rasmus Andersson (DBA: RSMS) 
 and is used as the basis for this project under the SIL Open Font License.
+*Inspired by multiple fonts
 
 ## License
 
