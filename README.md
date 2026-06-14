@@ -13,6 +13,20 @@ Contemporary is a fork of Inter. "Inter" is a trademark of Rasmus Andersson (DBA
 and is used as the basis for this project under the SIL Open Font License.
 *Inspired by multiple fonts
 
+## AI Disclosure ( For Google Fonts )
+The typeface design is made by a human, glyphs were drawn and edited by me, based on 
+[Inter](https://github.com/rsms/inter) (SIL OFL 1.1) and no AI was used to generate or draw
+glyph outlines.
+
+AI tooling, Anthropic's Claude was used for:
+restructuring the repo to the Google Fonts upstream layout;
+instances and `STAT` names;
+removing legacy Mac `name` records; adding `gasp`/`prep` (dropout) tables;
+- adding `U+030B` 
+- removing glyphs lacking case-swap counterparts;
+
+
+
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
