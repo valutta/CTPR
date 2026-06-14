@@ -23,7 +23,7 @@ restructuring the repo to the Google Fonts upstream layout;
 instances and `STAT` names;
 removing legacy Mac `name` records; adding `gasp`/`prep` (dropout) tables;
 - adding `U+030B` 
-- removing glyphs lacking case-swap counterparts;
+- removing glyphs lacking case-swap counterparts
 
 
 
