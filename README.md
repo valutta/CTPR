@@ -15,4 +15,4 @@ and is used as the basis for this project under the SIL Open Font License.
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
-See [OFL.txt](OFL.txt). It is available with a FAQ at https://openfontlicense.org
+See [OFL.txt](OFL.txt) https://openfontlicense.org
